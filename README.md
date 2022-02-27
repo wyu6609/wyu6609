@@ -30,6 +30,4 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg#gh-dark-mode-only" />
 
 <br />
-<br />
 
----
