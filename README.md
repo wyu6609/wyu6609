@@ -9,8 +9,8 @@
 
 ### My LinkedIn:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/will-yu-56b101a8#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/will-yu-56b101a8#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
