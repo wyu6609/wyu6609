@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Become seasoned in vanilla Javascript and React JS
-- ⚡ Fun fact: I love to code, work out and play piano
+- 🥅 2022 Goals: Become seasoned at vanilla Javascript and React JS 💪
+- ⚡ Fun fact: I love to code, work out and play piano 🎹
 
 ### My LinkedIn:
 
