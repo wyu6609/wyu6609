@@ -2,7 +2,7 @@
 
 ## I'm a software developer and chemical engineering graduate!!
 
-- 🌱 I’m currently learning everything 🤣
+- 📚 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Become seasoned at vanilla Javascript and React JS 💪
 - ⚡ Fun fact: I love to code, work out and play piano 🎹
 
