@@ -11,12 +11,11 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/will-yu-56b101a8#gh-light-mode-only) 
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/will-yu-56b101a8#gh-dark-mode-only)
 
-------------------
-
+<br />
 
 :hammer_and_wrench: Languages and Tools 
 
-<br />
+
   
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -32,7 +31,7 @@
  
 </div>
 
-
+------------------
 
 <br />
 :fire: My Stats 
