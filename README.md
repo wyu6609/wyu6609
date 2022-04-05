@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to code, work out and play piano 🎹
 
 ------------------
-- :mailbox:My LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Will Yu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/will-yu-56b101a8/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Will-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/will-yu-56b101a8/)
 
 
 
