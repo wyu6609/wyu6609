@@ -37,9 +37,9 @@
 :fire: My Stats  <br />
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wyu6609&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wyu6609&theme=default)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyu6609&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyu6609&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/wyu6609/wyu6609/blob/output/github-contribution-grid-snake.gif)
