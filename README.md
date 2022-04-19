@@ -40,10 +40,11 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wyu6609&theme=default)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyu6609&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyu6609&theme=vue)
 
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/wyu6609/wyu6609/blob/output/github-contribution-grid-snake.gif)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyu6609&theme=vue)
+
 <!-- 
 [![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyu6609)](https://github.com/wyu6609/github-readme-stats)
  -->
