@@ -2,8 +2,8 @@
 
 ## I'm a software developer and chemical engineering graduate!!
 
-- 📚 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Become seasoned at vanilla Javascript and React JS 💪
+- 📚 I’m am currently learning React Native and working on data structures and algorithms.
+- 🥅 2022 Goals: Become more seasoned at vanilla Javascript and React JS 💪
 - ⚡ Fun fact: I love to code, work out and play piano 🎹
 
 ------------------
