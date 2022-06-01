@@ -4,7 +4,7 @@
 
 - 📚 I’m am currently learning React Native and working on data structures and algorithms.
 - 🥅 2022 Goals: Become more seasoned at vanilla Javascript and React JS 💪
-- ⚡ Fun fact: I love to code, work out and play piano 🎹
+- ⚡ Check out my portfolio: www.yuwilliam.com
 
 ------------------
 ### :mailbox:My LinkedIn 
