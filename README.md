@@ -1,6 +1,6 @@
 # Hello! I'm Will! 👋👨‍💻
 
-## I'm a software developer and chemical engineering graduate!!
+## I'm a software developer and chemical engineering graduate.
 
 - 📚 I’m am currently learning React Native and working on data structures and algorithms.
 - 🥅 2022 Goals: Become more seasoned at vanilla Javascript and React JS 💪
