@@ -44,7 +44,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyu6609&theme=vue)
 
 ## Snake eating my contribution graph
-![snake gif](https://github.com/wyu6609/wyu6609/blob/output/github-contribution-grid-snake.gif)
+
 
 <!-- 
 [![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyu6609)](https://github.com/wyu6609/github-readme-stats)
