@@ -37,7 +37,7 @@
 :fire: My Stats  <br />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wyu6609)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyu6609&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
