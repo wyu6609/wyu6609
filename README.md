@@ -1,4 +1,6 @@
-# Hello! I'm Will! 👋👨‍💻
+# Hello! I'm Will! 👋👨‍💻 <br /> 
+ [![Linkedin Badge](https://img.shields.io/badge/-Will&nbsp;Yu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/will-yu-56b101a8/)
+<img src="https://komarev.com/ghpvc/?username=wyu6609&style=flat-square&color=blue" alt=""/>
 
 ## I'm a software developer and chemical engineering graduate.
 
@@ -7,9 +9,10 @@
 - ⚡ Check out my portfolio: www.yuwilliam.com
 
 ------------------
-### :mailbox:My LinkedIn 
-[![Linkedin Badge](https://img.shields.io/badge/-Will&nbsp;Yu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/will-yu-56b101a8/)
-<img src="https://komarev.com/ghpvc/?username=wyu6609&style=flat-square&color=blue" alt=""/>
+
+### 
+
+
 
 
 
@@ -43,18 +46,22 @@
 
 ------------------
 
-<br />
-:fire: My Stats  <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wyu6609&theme=auto)](https://git.io/streak-stats)
+ <h1 align = "center">:fire: My Stats</h1>  <br />
+
+<p align = "center"><img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wyu6609&layout=compact&theme=default" /></p>
+
+<p align = "center"><img  src = "https://github-readme-streak-stats.herokuapp.com/?user=wyu6609&theme=auto" /></p>
+
+<p align = "center"><img  src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyu6609&theme=vue" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wyu6609&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyu6609&theme=vue)
 
-## Snake eating my contribution graph
-![snake gif](https://github.com/wyu6609/wyu6609/blob/output/github-contribution-grid-snake.gif)
+## 
+<h1 align = "center">:snake: Snake eating my contribution graph</h1>  <br />
+<p align = "center"><img  src = "https://github.com/wyu6609/wyu6609/blob/output/github-contribution-grid-snake.gif" /></p>
+
 
 <!-- 
 [![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyu6609)](https://github.com/wyu6609/github-readme-stats)
