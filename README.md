@@ -56,9 +56,10 @@
 <p align = "center"><img  src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyu6609&theme=vue" /></p>
 
 
-
 ------------------
+
 <h1 align = "center">:snake: Snake eating my contribution graph</h1>  <br />
+
 <p align = "center"><img  src = "https://raw.githubusercontent.com/wyu6609/wyu6609/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p>
 
 
