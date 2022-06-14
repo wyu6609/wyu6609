@@ -48,8 +48,8 @@
 
 
  <h1 align = "center">:fire: My Stats</h1>  <br />
+<p align = "center"><img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wyu6609&layout=compact&theme=default#gh-light-mode-only" /></p>
 
-<p align = "center"><img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wyu6609&layout=compact&theme=default" /></p>
 
 <p align = "center"><img  src = "https://github-readme-streak-stats.herokuapp.com/?user=wyu6609&theme=auto" /></p>
 
