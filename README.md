@@ -51,7 +51,7 @@
 <p align = "center"><img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wyu6609&layout=compact&theme=default#gh-light-mode-only" /></p>
 
 
-<p align = "center"><img  src = "https://github-readme-streak-stats.herokuapp.com/?user=wyu6609&theme=auto" /></p>
+<p align = "center"><img  src = "https://github-readme-streak-stats.herokuapp.com/?user=wyu6609" /></p>
 
 <p align = "center"><img  src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wyu6609&theme=vue" /></p>
 
