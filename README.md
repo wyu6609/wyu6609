@@ -59,7 +59,12 @@
 
 ------------------
 <h1 align = "center">:snake: Snake eating my contribution graph</h1>  <br />
-<p align = "center"><img  src = "https://github.com/wyu6609/wyu6609/blob/output/github-contribution-grid-snake.gif" /></p>
+<p align = "center"><img  src = "https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only" /></p>
+
+
+<p align = "center"><img  src = "https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
+
+
 
 
 <!-- 
