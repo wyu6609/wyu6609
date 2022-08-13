@@ -1,4 +1,5 @@
 # Hello World. I'm Will! 👨‍💻 <br /> 
+# Check out my portfolio: www.yuwilliam.com
  [![Linkedin Badge](https://img.shields.io/badge/-Will&nbsp;Yu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/will-yu-56b101a8/)
 <img src="https://komarev.com/ghpvc/?username=wyu6609&style=flat-square&color=blue" alt=""/>
 
@@ -6,7 +7,7 @@
 
 - 📚 I’m am currently learning Java and working on data structures and algorithms.
 - 🥅 2022 Goals: Become more seasoned at full stack development 💪
-- ⚡ Check out my portfolio: www.yuwilliam.com
+
 
 ------------------
 
