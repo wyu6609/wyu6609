@@ -49,7 +49,7 @@
 
 
  <h1 align = "center">:fire: My Stats</h1>  <br />
-<p align = "center"><img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wyu6609&layout=compact&theme=default#gh-light-mode-only" /></p>
+<p align = "center"><img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wyu6609&layout=compact&langs_count=8&hide_border=true&hide=html,css,batchfile,shell,procfile,pug,scss,go&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></p>
 
 
 <p align = "center"><img  src = "https://github-readme-streak-stats.herokuapp.com/?user=wyu6609" /></p>
