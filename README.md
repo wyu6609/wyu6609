@@ -1,12 +1,10 @@
 # Hello World. I'm Will! www.yuwilliam.com 👨‍💻  <br /> 
-
+## Software Engineer  <br /> 
  [![Linkedin Badge](https://img.shields.io/badge/-Will&nbsp;Yu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/will-yu-56b101a8/)
 <img src="https://komarev.com/ghpvc/?username=wyu6609&style=flat-square&color=blue" alt=""/>
 
-## Software Engineer 
 
-- 📚 Currently supporting backend microservices
-- 🥅 2023 Goals: Become more seasoned at Java 💪
+
 
 
 ------------------
