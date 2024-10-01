@@ -16,7 +16,6 @@
 
 
 <h1 align = "center">:hammer_and_wrench: Languages and Tools</h1>
-https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg
 
   
   <div align = "center">
